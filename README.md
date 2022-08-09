@@ -34,8 +34,6 @@ $ cd hello-react-front-end
 ### Run
 
 ```bash
-# $   bundle install
-# $   yarn install
 $   npm install
 ```
 
@@ -45,7 +43,6 @@ $   npm install
 
 ```bash
 $   npm start
-# $   rails server -p3000 # to visit http://localhost/
 ```
 
 ## Author
